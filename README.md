@@ -26,7 +26,7 @@ Los resultados obtenidos se muestran en siguiente imagen.
 ![ComprobacionAStar](./Images/comprobacion_AStar.jpeg)
 
 Al realizar una comparativa tenemos que se llego a la solución esperada, podemos observar las estaciones que se siguieron para llegar al objetivo y el costo total. Estos resultados se obtuvieron tras 
-300 iteraciones, el log completo se encuentra en el documento de [python](./AStar_Examen.ipynb) 
+230 iteraciones, el log completo se encuentra en el documento de [python](./AStar_Examen.ipynb) 
 
 
 
